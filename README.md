@@ -1,5 +1,5 @@
 #  About Me:
-I’m currently working on<br>👯 I’m looking to collaborathey there! I'm prateek, a CS undergrad diving into the world of software development, AI, machine learning, and computer vision. Currently, I'm working on getting my development skills up and experimenting with object detection models. I also tinker with data structures and build ANN models for the heck of it. I enjoy coding in Python, Java, and a bunch of other languages while exploring new ways to make ML models smarter and more efficient.<br><br>beyond coding, I'm also a graphic designer and artist—I create and share my work on Behance! Always up for learning something new!
+hey there! I'm prateek, a CS undergrad diving into the world of software development, AI, machine learning, and computer vision. Currently, I'm working on getting my development skills up and experimenting with object detection models. I also tinker with data structures and build ANN models for the heck of it. I enjoy coding in Python, Java, and a bunch of other languages while exploring new ways to make ML models smarter and more efficient.<br><br>beyond coding, I'm also a graphic designer and artist—I create and share my work on Behance! Always up for learning something new!
 
 # Come check out my: 
 [Portfolio](https://prateek-mohapatra.vercel.app) <br>
