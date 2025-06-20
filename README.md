@@ -1,5 +1,4 @@
 ![My Art Collage](./assets/banner.jpg)
-yes the all of the art included is mine, you absolutely may not steal it :)
 
 #  about me:
 hey there! i/m prateek, a curious computer science undergrad passionate about building smart, scalable, and human-friendly tech.
@@ -37,3 +36,4 @@ may the source code be with you.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezahpizza&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
+yes, the all of the art included in the banner above is mine, you absolutely may not steal it :)
