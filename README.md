@@ -33,7 +33,7 @@ may the source code be with you.
 #  stats:
 ![](https://github-readme-stats.vercel.app/api?username=ezahpizza&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ezahpizza&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezahpizza&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezahpizza&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pv30srg2hdmhv6yqnczvkbx26&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=ff00a2)](https://spotify-github-profile.kittinanx.com/api/view?uid=pv30srg2hdmhv6yqnczvkbx26&redirect=true)
 
 ---
