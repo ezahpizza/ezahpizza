@@ -7,7 +7,7 @@ i/m currently exploring advanced software development with react, fastapi & ai/m
  **python** is my language of choice (because i love backend developement, god bless [tiangolo](https://github.com/tiangolo) for fastapi) while i/m also great at java, javascript, c/c++, sql and r too! i take a keen interest in working with ann architectures, attention mechanisms, and fuzzy logic. i/ve recently got into learning about real-time data pipelines with big data tools (spark, kafka, and the like, the apache stack basically :))
 
 side quests:
-- making ml models leaner, faster, and more interpretable because ai doesn/t have to be the blackaox it/s perceived as right now
+- making ml models leaner, faster, and more interpretable because ai doesn/t have to be the blackbox it/s perceived as right now
 - designing intuitive frontends that *don’t* look like side projects
 - deploying production-ready systems in proper ci/cd pipelines with docker and k8 orchestration
 
