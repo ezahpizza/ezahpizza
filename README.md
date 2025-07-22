@@ -102,8 +102,6 @@ hehe
 #  stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ezahpizza&theme=midnight_purple)<br/>
 ![GitHub Stats](https://streak-stats.demolab.com?user=ezahpizza&theme=midnight-purple&hide_border=true)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ezahpizza&theme=midnight_purple)<br/>
-![GitHub Stats](https://streak-stats.demolab.com?user=ezahpizza&theme=midnight-purple&hide_border=true)<br/>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pv30srg2hdmhv6yqnczvkbx26&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=ff00a2)](https://spotify-github-profile.kittinanx.com/api/view?uid=pv30srg2hdmhv6yqnczvkbx26&redirect=true)
 
 
