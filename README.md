@@ -1,6 +1,5 @@
 ![My Art Collage](./assets/banner.jpg)
 
-#  about me:
 hey there! i/m prateek, a curious computer science undergrad passionate about building smart, scalable, and human-friendly tech.
 
 i/m currently exploring advanced software development with react, fastapi & ai/ml architectures, engrossed in ai/ml research with transformer systems, computer vision and various other deep learning model development and deployment pipelines on the side.
@@ -8,7 +7,7 @@ i/m currently exploring advanced software development with react, fastapi & ai/m
  **python** is my language of choice (because i love backend developement, god bless [tiangolo](https://github.com/tiangolo) for fastapi) while i/m also great at java, javascript, c/c++, sql and r too! i take a keen interest in working with ann architectures, attention mechanisms, and fuzzy logic. i/ve recently got into learning about real-time data pipelines with big data tools (spark, kafka, and the like, the apache stack basically :))
 
 side quests:
-- making ml models leaner, faster, and more interpretable because ai doesn/t have to be the blackaox it/s perceived as right now
+- making ml models leaner, faster, and more interpretable because ai doesn/t have to be the blackbox it/s perceived as right now
 - designing intuitive frontends that *don’t* look like side projects
 - deploying production-ready systems in proper ci/cd pipelines with docker and k8 orchestration
 
@@ -101,6 +100,8 @@ hehe
 ![Riot Games](https://img.shields.io/badge/riotgames-0b1215.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%230b1215.svg?style=for-the-badge&logo=steam&logoColor=white) 
 
 #  stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ezahpizza&theme=midnight_purple)<br/>
+![GitHub Stats](https://streak-stats.demolab.com?user=ezahpizza&theme=midnight-purple&hide_border=true)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ezahpizza&theme=midnight_purple)<br/>
 ![GitHub Stats](https://streak-stats.demolab.com?user=ezahpizza&theme=midnight-purple&hide_border=true)<br/>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pv30srg2hdmhv6yqnczvkbx26&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=ff00a2)](https://spotify-github-profile.kittinanx.com/api/view?uid=pv30srg2hdmhv6yqnczvkbx26&redirect=true)
