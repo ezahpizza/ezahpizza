@@ -1,5 +1,8 @@
 ![My Art Collage](./assets/banner.jpg)
 
+---
+yes, the all of the art included in the banner above is mine, you absolutely may not steal it :)
+
 hey there! i/m prateek, a curious computer science undergrad passionate about building smart, scalable, and human-friendly tech.
 
 i/m currently exploring advanced software development with react, fastapi & ai/ml architectures, engrossed in ai/ml research with transformer systems, computer vision and various other deep learning model development and deployment pipelines on the side.
@@ -24,7 +27,9 @@ beyond coding, i/m also a graphic designer and artist—i create and share my wo
 may the source code be with you.
 
 ##  socials:
-[![Behance](https://img.shields.io/badge/Behance-0b1215.svg?logo=behance&logoColor=white)](https://behance.net/behance.net/prateekmohapat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b1215.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prateekmp/) [![Pinterest](https://img.shields.io/badge/Pinterest-%230b1215.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/ezahpizza/) [![email](https://img.shields.io/badge/Email-0b1215?logo=gmail&logoColor=white)](mailto:prateekmsoa@gmail.com) 
+[![Behance](https://img.shields.io/badge/Behance-0b1215.svg?logo=behance&logoColor=white)](https://behance.net/behance.net/prateekmohapat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b1215.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prateekmp/) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%230b1215.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/ezahpizza/) 
+[![email](https://img.shields.io/badge/Email-0b1215?logo=gmail&logoColor=white)](mailto:prateekmsoa@gmail.com) 
 
 ##  tech stack:
 
@@ -41,6 +46,14 @@ may the source code be with you.
 ### frontend:
 
 ![React](https://img.shields.io/badge/react-%23995ABF.svg?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%237B42A0.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%2361348F.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux--Toolkit-%234D2C91.svg?style=for-the-badge&logo=redux)
+![React Query](https://img.shields.io/badge/ReactQuery-%239865B8.svg?style=for-the-badge&logo=react-query)
+![React Hook Form](https://img.shields.io/badge/ReactHookForm-%23D291BC.svg?style=for-the-badge&logo=reacthookform)
+![Zod](https://img.shields.io/badge/Zod-%23E0BBE4.svg?style=for-the-badge)
+![Zustand](https://img.shields.io/badge/Zustand-%237554A3.svg?style=for-the-badge)
+![NextAuth](https://img.shields.io/badge/NextAuth-%235C3B9E.svg?style=for-the-badge&logo=auth0)
 ![HTML5](https://img.shields.io/badge/html5-%237B42A0.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%2361348F.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2345297B.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -105,5 +118,4 @@ hehe
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pv30srg2hdmhv6yqnczvkbx26&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=ff00a2)](https://spotify-github-profile.kittinanx.com/api/view?uid=pv30srg2hdmhv6yqnczvkbx26&redirect=true)
 
 
----
-yes, the all of the art included in the banner above is mine, you absolutely may not steal it :)
+
