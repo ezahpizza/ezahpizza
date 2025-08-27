@@ -19,7 +19,7 @@ i/ve published 2 scopus-indexed research papers in ai for agriculture and built 
 beyond coding, i/m also a graphic designer and artist—i create and share my work on behance!
 
 - get to know more about me at my
-[portfolio](https://prateek-mohapatra.vercel.app) 
+[portfolio](https://prateekmptra.vercel.app) 
 
 - or check out my
 [art gallery](https://prateeks-art-gallery.webflow.io)
