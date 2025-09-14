@@ -7,7 +7,7 @@ hey there! i/m prateek, a curious computer science undergrad passionate about bu
 
 i/m currently exploring advanced software development with react, fastapi & ai/ml architectures, engrossed in ai/ml research with transformer systems, computer vision and various other deep learning model development and deployment pipelines on the side.
 
- **python** is my language of choice (because i love backend developement, god bless [tiangolo](https://github.com/tiangolo) for fastapi) while i/m also great at java, javascript, c/c++, sql and r too! i take a keen interest in working with ann architectures, attention mechanisms, and fuzzy logic. i/ve recently got into learning about real-time data pipelines with big data tools (spark, kafka, and the like, the apache stack basically :))
+ **python** is my language of choice (because i mostly work in backend developement with fastapi, god bless [tiangolo](https://github.com/tiangolo) ) while i/m also dabble in java, javascript, c/c++, sql and r too, i take a keen interest in working with ann architectures, attention mechanisms, and fuzzy logic. i/ve recently got into learning about real-time data pipelines with big data tools (spark, kafka, and the like.)
 
 side quests:
 - making ml models leaner, faster, and more interpretable because ai doesn/t have to be the blackbox it/s perceived as right now
@@ -97,6 +97,18 @@ may the source code be with you.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%234D2C91.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-%23362063.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23995ABF.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+### genAI:
+
+![LangChain](https://img.shields.io/badge/LangChain-%23E0BBE4.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Agno](https://img.shields.io/badge/Agno-%23D291BC.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-%23B296C6.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Tavily](https://img.shields.io/badge/Tavily-%239865B8.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![DeepGram](https://img.shields.io/badge/DeepGram-%237554A3.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%235C3B9E.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![LLamaIndex](https://img.shields.io/badge/LLamaIndex-%234D2C91.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LlamaParse](https://img.shields.io/badge/LlamaParse-%23362063.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![AI SDK](https://img.shields.io/badge/AI_SDK-%23995ABF.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
  
 
 ### design:
