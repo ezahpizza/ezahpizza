@@ -22,7 +22,7 @@ beyond coding, i/m also a graphic designer and artist—i create and share my wo
 [portfolio](https://prateekmptra.vercel.app) 
 
 - or check out my
-[art gallery](https://prateeks-art-gallery.webflow.io)
+[art gallery](https://poeartshop.vercel.app)
 
 may the source code be with you.
 
