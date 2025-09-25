@@ -3,6 +3,8 @@
 ---
 yes, the all of the art included in the banner above is mine, you absolutely may not steal it :)
 
+tldr: i "integrate more ai in x"
+
 hey there! i/m prateek, a curious computer science undergrad passionate about building smart, scalable, and human-friendly tech.
 
 i/m currently exploring advanced software development with react, fastapi & ai/ml architectures, engrossed in ai/ml research with transformer systems, computer vision and various other deep learning model development and deployment pipelines on the side.
